@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Web3Pro90
 - 👀 I’m interested in web3 space, blockchain and NFT development
 - 🌱 I’m currently learning development for NFT using the etherium & solana blockchains
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on NFT projects
 - 📫 How to reach me ecomrumble@gmail.com
 
 <!---
